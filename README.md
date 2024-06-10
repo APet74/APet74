@@ -1,7 +1,7 @@
 <div align='center'>
   <b>About me:</b>
   
- 💼 Fullstack Engineer at [Indiggo.ai](http://indiggo.ai/)
+ 💼 I type letters, symbols and numbers
 
  📈 Built CSGORankMeWeb
 
